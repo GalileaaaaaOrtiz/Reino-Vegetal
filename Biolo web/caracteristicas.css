@@ -1,0 +1,26 @@
+body{
+	background: #7FFFD4;
+}
+h1{
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.img8 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.img9 {
+	display: block;
+	float: right;
+	width: 45%;
+}
+.img10 {
+	display: block;
+	float: left;
+	width: 50%;
+}
+

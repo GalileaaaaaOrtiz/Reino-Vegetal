@@ -1,0 +1,33 @@
+body{
+	background: #7FFFD4;
+}
+h1{
+	text-decoration: underline;
+	text-align: center;
+}
+.img25 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  }
+
+  .img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+li{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
